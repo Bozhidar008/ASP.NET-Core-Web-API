@@ -1,3 +1,3 @@
 # ASP.NET-Core-Web-API
 
-CRUD with a .NET 6 Web API & Entity Framework Core
+CRUD with a .NET Web API & Entity Framework Core
